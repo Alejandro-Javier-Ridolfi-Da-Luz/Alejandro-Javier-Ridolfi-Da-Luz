@@ -9,7 +9,7 @@
 
 **Location:** La Plata, Buenos Aires, Argentina  
 **Email:** [ridolfidaluz.a@gmail.com](mailto:ridolfidaluz.a@gmail.com)  
-**LinkedIn:** [Alejandro Javier Ridolfi Da Luz]([https://www.linkedin.com/in/alejandro-ridolfi-daluz](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/))  
+**LinkedIn:** [Alejandro Javier Ridolfi Da Luz](https://www.linkedin.com/in/alejandro-javier-ridolfi-da-luz-363008231/)  
 **Portfolio:** [GitHub Projects](https://github.com/alejandro-ridolfi)
 
 ---
