@@ -28,8 +28,8 @@ I’m passionate about continuous learning and love working on projects that cha
 - ![C](https://img.shields.io/badge/C-Programming-lightgrey?style=flat-square&logo=c&logoColor=white) **Programming Languages:** C, Python, Bash
 - ![Apache](https://img.shields.io/badge/Apache-HTTP_Server-red?style=flat-square&logo=apache&logoColor=white) **Networking & System Administration:** Apache, BIND9 DNS, Virtualization (VirtualBox), TCP/IP, Firewall Configuration
 - ![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazon-aws&logoColor=white) **Cloud Technologies:** AWS EC2 (Firewall Management, Instance Setup)
-- **Database Management:** SQL (MySQL, PostgreSQL)
-- **Others:** Object-Oriented Programming (OOP), Socket Programming, Shell Scripting
+- **Database Management:** SQL (MySQL)
+- **Others:** Object-Oriented Programming (OOP), Socket Programming, Shell Scripting, Scrum methodology
 
 ---
 
